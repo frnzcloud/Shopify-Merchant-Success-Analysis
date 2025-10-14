@@ -2,7 +2,7 @@
 
 ## Business Objective
 
-The primary objective of this project was to develop an end-to-end business intelligence solution to analyze Shopify merchant data. The goal was to identify the key factors and behaviors that differentiate high-performing merchants from low-performing ones. The insights from this dashboard are intended for a fictional "Merchant Education" team to help them create targeted content and guides to foster merchant success.
+The primary objective of this project was to develop an end-to-end business intelligence solution to analyze Shopify merchant data. The goal was to identify the key factors and behaviors that differentiate high-performing merchants from low-performing ones. The insights from this dashboard are intended for a fictional "Merchant Development" team to help them create targeted content and guides to foster merchant success.
 
 ## Dashboard Demo
 
