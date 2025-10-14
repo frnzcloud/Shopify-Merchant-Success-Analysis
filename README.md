@@ -35,7 +35,7 @@ The initial dataset was synthetically generated to model a real-world business s
 
 -   **Standardized Text Data:** Corrected typos, inconsistent casing (`Basic` vs. `basic`), and extra spacing to ensure data consistency.
 -   **Handled Null/Empty Values:** Replaced all null values in categorical columns (`PlanTier`, `Industry`, `AppCategory`) with "Unknown" to ensure all records could be included in the analysis.
--   **Removed Orphan Records:** Performed an inner join between the `apps_final` and `merchants_final` tables to filter out app installation data for merchants who did not exist in the master list, ensuring data integrity.
+-   **Removed "Lost" Records:** Performed an inner join between the `apps_final` and `merchants_final` tables to filter out app installation data for merchants who did not exist in the master list, ensuring data integrity.
 
 ## Data Modeling
 
