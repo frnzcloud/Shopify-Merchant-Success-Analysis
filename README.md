@@ -39,7 +39,7 @@ The initial dataset was synthetically generated to model a real-world business s
 
 ## Data Modeling
 
-A **star schema** was implemented to create a robust and efficient data model.
+A **schema** was implemented to create a robust and efficient data model.
 
 -   The `merchants_final` table serves as the central **dimension table**.
 -   The `performance_final` and `apps_final` tables serve as **fact tables**.
